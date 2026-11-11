@@ -1,0 +1,20 @@
+public class ListingActivity
+{
+    List<string> _prompt;
+    int _itemCount;
+
+    public ListingActivity()
+    {
+        
+    }
+
+    public string GetPrompt()
+    {
+        
+    }
+
+    public List<string> GetUserList()
+    {
+        
+    }
+}

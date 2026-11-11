@@ -1,0 +1,25 @@
+public class ReflectingActivity
+{
+    List<string> _prompt;
+    string _question;
+
+    public ReflectingActivity()
+    {
+        
+    }
+
+    public string GetPrompt()
+    {
+        
+    }
+
+    public string GetQuestion()
+    {
+        
+    }
+
+    public void DisplayPrompt()
+    {
+        
+    }
+}
